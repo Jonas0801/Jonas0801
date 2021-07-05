@@ -2,7 +2,7 @@
 - 👀 I’m interested in Unity3D game development
 - 🌱 I’m currently learning game desing pattern.
 - 💞️ I’m looking to collaborate on game development
-- 📫 How to reach me ...
+- 📫 You can reach me at this email leejonas0801@gmail.com
 
 <!---
 Jonas0801/Jonas0801 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
