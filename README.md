@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jonas
 - 👀 I’m interested in Unity3D game development
-- 🌱 I’m currently learning game desing pattern.
+- 🌱 I’m currently learning game design pattern.
 - 💞️ I’m looking to collaborate on game development
 - 📫 You can reach me at this email leejonas0801@gmail.com
 
